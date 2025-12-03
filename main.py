@@ -7,3 +7,8 @@ def greet(name):
  
 # Test the function 
 print(greet("GitHub User")) 
+def greet(name): 
+    return f"Hello, {name}!" 
+ 
+# Test the function 
+print(greet("World")) 
